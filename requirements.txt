@@ -1,0 +1,8 @@
+jupyter==1.0.*
+spacy==3.7.2
+pandas
+numpy
+matplotlib
+sqlite
+skillNer
+json
